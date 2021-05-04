@@ -5,7 +5,7 @@
 int main()
 {
 
-cout<<"New change";
+cout<<"New change by br-2";
 cout<<"Changes made in new branch - b1";
 
 }
